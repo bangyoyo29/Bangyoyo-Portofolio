@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Bangyoyo-Portofolio/static/css/main.380a5133.css",
-    "main.js": "/Bangyoyo-Portofolio/static/js/main.d6fee267.js",
+    "main.css": "/Bangyoyo-Portofolio/static/css/main.eab0063a.css",
+    "main.js": "/Bangyoyo-Portofolio/static/js/main.bbfeec5e.js",
     "static/media/workImgEight.jpg": "/Bangyoyo-Portofolio/static/media/workImgEight.ad99864b854306d782b9.jpg",
     "static/media/workImgThree.jpg": "/Bangyoyo-Portofolio/static/media/workImgThree.8321ce6dc32b0b94b157.jpg",
     "static/media/workImgFour.jpg": "/Bangyoyo-Portofolio/static/media/workImgFour.211b824a5726c50c9648.jpg",
@@ -18,11 +18,11 @@
     "static/media/blogImgFour.jpg": "/Bangyoyo-Portofolio/static/media/blogImgFour.7d2d7d0110144a6c65d6.jpg",
     "static/media/blogImgThree.jpg": "/Bangyoyo-Portofolio/static/media/blogImgThree.beac791664fc1206f30c.jpg",
     "index.html": "/Bangyoyo-Portofolio/index.html",
-    "main.380a5133.css.map": "/Bangyoyo-Portofolio/static/css/main.380a5133.css.map",
-    "main.d6fee267.js.map": "/Bangyoyo-Portofolio/static/js/main.d6fee267.js.map"
+    "main.eab0063a.css.map": "/Bangyoyo-Portofolio/static/css/main.eab0063a.css.map",
+    "main.bbfeec5e.js.map": "/Bangyoyo-Portofolio/static/js/main.bbfeec5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.380a5133.css",
-    "static/js/main.d6fee267.js"
+    "static/css/main.eab0063a.css",
+    "static/js/main.bbfeec5e.js"
   ]
 }
