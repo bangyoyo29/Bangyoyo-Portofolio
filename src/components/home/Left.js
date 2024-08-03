@@ -108,7 +108,7 @@ const Left = () => {
           <a
             href="https://wa.me/6285156492719"
             target="_blank"
-            className="w-1/2 border-t-[1px] borderRight border-t-zinc-800 text-sm tracking-wide uppercase  gap-2 hover:text-designColor duration-300"
+            className="w-1/2 border-t-[1px] border-t-zinc-800 text-sm tracking-wide uppercase  gap-2 hover:text-designColor duration-300"
             rel="noreferrer"
           >
           <button className="w-full h-full flex justify-center items-center gap-2">
